@@ -1,0 +1,16 @@
+{
+  "name": "laba77",
+  "version": "1.0.0",
+  "description": "Moya laba7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index",
+    "start": "node index"
+  },
+  "author": "Shirazov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

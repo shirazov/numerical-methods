@@ -1,0 +1,25 @@
+{
+  "name": "k",
+  "version": "1.0.0",
+  "description": "simple wev app for 9PKS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index",
+    "start": "node index"
+  },
+  "author": "k",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.2",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "mysql": "github:mysqljs/mysql",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "simple wev app for 9PKS"
+  }
+}
